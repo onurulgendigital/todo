@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554703372071",
+    "firebase_url": "https://todo-dc3c0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "todo-dc3c0",
+    "storage_bucket": "todo-dc3c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554703372071:android:a7aaa150759520ce14f302",
+        "android_client_info": {
+          "package_name": "com.flutterflow.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554703372071-rff56ku1itjbhjc6bm3i8i58g1hic0rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaWCjwDVdHPcOuHaS0bvI4bk55sTvYTGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554703372071-rff56ku1itjbhjc6bm3i8i58g1hic0rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
